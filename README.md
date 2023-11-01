@@ -1,5 +1,4 @@
 # Análisis de Elecciones en Argentina
-# Adaptado al distrito de Trenque Lauquen, Pcia. de Buenos Aires.
 
 ## Descripción
 Esta es una aplicación Shiny diseñada para realizar un análisis descriptivo de los datos provisorios de las elecciones Primaria y General en Argentina del año actual. La aplicación ofrece varias funcionalidades que permiten explorar los resultados electorales de manera interactiva.
