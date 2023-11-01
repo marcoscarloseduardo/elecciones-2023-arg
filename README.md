@@ -33,6 +33,11 @@ Esta es una aplicación Shiny diseñada para realizar un análisis descriptivo d
 5. Analice las mesas con inconsistencias en el "Panel de Inconsistencias".
 6. Consulte los datos originales en la "Tabla de Datos Originales" para obtener más detalles.
 
+## Demo
+Puedes experimentar con una versión operativa de esta aplicación en el sitio de [Shinyapps.io](https://carlosmarcos.shinyapps.io/elecciones-2023/).
+
+**Nota**: La aplicación de demostración te permitirá explorar la funcionalidad de la aplicación en tiempo real. Te invitamos a visitar la demo para tener una experiencia práctica antes de utilizar o desplegar tu propia instancia de la aplicación.
+
 ## Créditos
 Esta aplicación Shiny ha sido desarrollada por [Carlos Marcos](https://twitter.com/_Carlos_Marcos) y se basa en datos proporcionados por la [Dirección Nacional Electoral](https://www.electoral.gob.ar/).
 
