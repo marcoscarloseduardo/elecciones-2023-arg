@@ -26,10 +26,12 @@ Esta es una aplicación Shiny diseñada para realizar un análisis descriptivo d
 <p align="center"><img src="images/tabla_original.jpg" width="450"></p>
 
 ## Cómo usar la aplicación
-1. Seleccione los filtros que le interesen en el "Panel de Filtros".
-2. Explore los resultados en la tabla y gráficos.
-3. Analice las mesas con inconsistencias en el "Panel de Inconsistencias".
-4. Consulte los datos originales en la "Tabla de Datos Originales" para obtener más detalles.
+1. La personalización del archivo main.R permite focalizarse en un distrito, en este caso: Trenque Lauquen. Se generan los archivos de datos que usará la aplicación Shiny.
+2. Ejecutar la aplicación Shinny.
+3. Seleccione los filtros que le interesen en el "Panel de Filtros".
+4. Explore los resultados en la tabla y gráficos.
+5. Analice las mesas con inconsistencias en el "Panel de Inconsistencias".
+6. Consulte los datos originales en la "Tabla de Datos Originales" para obtener más detalles.
 
 ## Créditos
 Esta aplicación Shiny ha sido desarrollada por [Carlos Marcos](https://twitter.com/_Carlos_Marcos) y se basa en datos proporcionados por la [Dirección Nacional Electoral](https://www.electoral.gob.ar/).
